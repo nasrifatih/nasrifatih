@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nasri Fatih  
+Neuroscientist | Data Scientist  
 
-<!--
-**nasrifatih/nasrifatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Postdoctoral Scientist at @University of Oxford 
+PhD Neuroscience @UCL
+MSc Clinical Neuroscience @UCL
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Researching the impact of drugs on the brain
+- Publications: [Google Scholar]https://scholar.google.com/citations?user=KCGhhBEAAAAJ&hl=en
+- ORCID: [https://orcid.org/0000-0002-8327-2866] 
+- Projects:  
+  - [Alcohol–Dementia Pipeline (R)](https://github.com/nasrifatih/alcohol-dementia)  
+
+Create profile README
