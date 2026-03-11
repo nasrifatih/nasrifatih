@@ -11,5 +11,3 @@ MSc Clinical Neuroscience @UCL
 - ORCID: [https://orcid.org/0000-0002-8327-2866] 
 - Projects:  
   - [Alcohol–Dementia Pipeline (R)](https://github.com/nasrifatih/alcohol-dementia)  
-
-Create profile README
